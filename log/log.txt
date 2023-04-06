@@ -1,0 +1,232 @@
+(95,96) --> (115,122)
+95,96
+96,97
+97,98
+98,99
+99,100
+100,101
+101,102
+102,103
+103,104
+104,105
+105,106
+106,107
+107,108
+108,109
+109,110
+110,111
+111,111
+112,112
+113,113
+114,114
+115,115
+115,116
+115,117
+115,118
+115,119
+115,120
+115,121
+115,122
+target_dist:0.0000 trans:5.6122 rot:0.7955 State:HEADING
+target_dist:0.0000 trans:5.6122 rot:0.7955 State:HEADING
+target_dist:0.0000 trans:5.6122 rot:0.7955 State:HEADING
+target_dist:0.0000 trans:5.6621 rot:0.7122 State:HEADING
+target_dist:0.0000 trans:5.6621 rot:0.7122 State:HEADING
+target_dist:0.0000 trans:5.7469 rot:0.4931 State:HEADING
+target_dist:0.0000 trans:5.7469 rot:0.4931 State:HEADING
+target_dist:0.0000 trans:5.8216 rot:0.3155 State:HEADING
+target_dist:0.0000 trans:5.8216 rot:0.3155 State:HEADING
+target_dist:0.0000 trans:5.9552 rot:0.1772 State:HEADING
+target_dist:0.0000 trans:5.9552 rot:0.1772 State:HEADING
+target_dist:0.0000 trans:5.8687 rot:0.0962 State:HEADING
+target_dist:0.0000 trans:5.8687 rot:0.0962 State:HEADING
+target_dist:0.0000 trans:5.9090 rot:0.0328 State:HEADING
+target_dist:33.1012 trans:5.9090 rot:0.0328 State:IN_PATH
+target_dist:33.0107 trans:5.8139 rot:0.0120 State:IN_PATH
+target_dist:33.0107 trans:5.8139 rot:0.0120 State:IN_PATH
+target_dist:32.9871 trans:5.7953 rot:-0.0097 State:IN_PATH
+target_dist:32.9871 trans:5.7953 rot:-0.0097 State:IN_PATH
+target_dist:32.7149 trans:5.5158 rot:-0.1470 State:IN_PATH
+target_dist:32.7149 trans:5.5158 rot:-0.1470 State:IN_PATH
+target_dist:32.4006 trans:5.1834 rot:-0.3085 State:IN_PATH
+target_dist:32.4006 trans:5.1834 rot:-0.3085 State:IN_PATH
+target_dist:31.8633 trans:4.6221 rot:-0.4982 State:IN_PATH
+target_dist:31.8633 trans:4.6221 rot:-0.4982 State:IN_PATH
+target_dist:31.2425 trans:3.9867 rot:-0.6888 State:IN_PATH
+target_dist:31.2425 trans:3.9867 rot:-0.6888 State:IN_PATH
+target_dist:30.6341 trans:3.4094 rot:-0.7712 State:IN_PATH
+target_dist:30.6341 trans:3.4094 rot:-0.7712 State:IN_PATH
+target_dist:30.0077 trans:2.8709 rot:-0.7551 State:IN_PATH
+target_dist:30.0077 trans:2.8709 rot:-0.7551 State:IN_PATH
+target_dist:29.3052 trans:3.5229 rot:-0.5245 State:IN_PATH
+target_dist:29.3052 trans:3.5229 rot:-0.5245 State:IN_PATH
+target_dist:28.7526 trans:3.0151 rot:-0.3888 State:IN_PATH
+target_dist:28.7526 trans:3.0151 rot:-0.3888 State:IN_PATH
+target_dist:28.1426 trans:3.7197 rot:-0.1113 State:IN_PATH
+target_dist:28.1426 trans:3.7197 rot:-0.1113 State:IN_PATH
+target_dist:27.5069 trans:3.0865 rot:-0.0159 State:IN_PATH
+target_dist:27.5069 trans:3.0865 rot:-0.0159 State:IN_PATH
+target_dist:26.8550 trans:2.4389 rot:0.0358 State:IN_PATH
+target_dist:26.8550 trans:2.4389 rot:0.0358 State:IN_PATH
+target_dist:26.2791 trans:3.1887 rot:0.2210 State:IN_PATH
+target_dist:26.2791 trans:3.1887 rot:0.2210 State:IN_PATH
+target_dist:25.7955 trans:2.7048 rot:0.1940 State:IN_PATH
+target_dist:25.7955 trans:2.7048 rot:0.1940 State:IN_PATH
+target_dist:25.1734 trans:3.4889 rot:0.2232 State:IN_PATH
+target_dist:25.1734 trans:3.4889 rot:0.2232 State:IN_PATH
+target_dist:24.6552 trans:2.9712 rot:0.1851 State:IN_PATH
+target_dist:24.6552 trans:2.9712 rot:0.1851 State:IN_PATH
+target_dist:24.0203 trans:2.3561 rot:0.2370 State:IN_PATH
+target_dist:24.0203 trans:2.3561 rot:0.2370 State:IN_PATH
+target_dist:23.4240 trans:3.1954 rot:0.2139 State:IN_PATH
+target_dist:23.4240 trans:3.1954 rot:0.2139 State:IN_PATH
+target_dist:22.9546 trans:2.7165 rot:0.1273 State:IN_PATH
+target_dist:22.9546 trans:2.7165 rot:0.1273 State:IN_PATH
+target_dist:22.3739 trans:2.1327 rot:0.0532 State:IN_PATH
+target_dist:22.3739 trans:2.1327 rot:0.0532 State:IN_PATH
+target_dist:21.9068 trans:3.0648 rot:-0.0039 State:IN_PATH
+target_dist:21.9068 trans:3.0648 rot:-0.0039 State:IN_PATH
+target_dist:21.4634 trans:2.6124 rot:-0.0045 State:IN_PATH
+target_dist:21.4634 trans:2.6124 rot:-0.0045 State:IN_PATH
+target_dist:20.9133 trans:3.4332 rot:-0.0546 State:IN_PATH
+target_dist:20.9133 trans:3.4332 rot:-0.0546 State:IN_PATH
+target_dist:20.4111 trans:2.8948 rot:-0.0903 State:IN_PATH
+target_dist:20.4111 trans:2.8948 rot:-0.0903 State:IN_PATH
+target_dist:19.8386 trans:2.2925 rot:-0.1082 State:IN_PATH
+target_dist:19.8386 trans:2.2925 rot:-0.1082 State:IN_PATH
+target_dist:19.2965 trans:3.1496 rot:-0.0625 State:IN_PATH
+target_dist:19.2965 trans:3.1496 rot:-0.0625 State:IN_PATH
+target_dist:18.8586 trans:2.6918 rot:-0.0569 State:IN_PATH
+target_dist:18.8586 trans:2.6918 rot:-0.0569 State:IN_PATH
+target_dist:18.3588 trans:2.1702 rot:-0.0609 State:IN_PATH
+target_dist:18.3588 trans:2.1702 rot:-0.0609 State:IN_PATH
+target_dist:17.8789 trans:3.0827 rot:-0.0236 State:IN_PATH
+target_dist:17.8789 trans:3.0827 rot:-0.0236 State:IN_PATH
+target_dist:17.4441 trans:2.6199 rot:-0.0340 State:IN_PATH
+target_dist:17.4441 trans:2.6199 rot:-0.0340 State:IN_PATH
+target_dist:16.8773 trans:3.4449 rot:-0.0055 State:IN_PATH
+target_dist:16.8773 trans:3.4449 rot:-0.0055 State:IN_PATH
+target_dist:16.3531 trans:2.8990 rot:-0.0166 State:IN_PATH
+target_dist:16.3531 trans:2.8990 rot:-0.0166 State:IN_PATH
+target_dist:15.7425 trans:2.2540 rot:-0.0730 State:IN_PATH
+target_dist:15.7425 trans:2.2540 rot:-0.0730 State:IN_PATH
+target_dist:15.2536 trans:3.1346 rot:-0.0562 State:IN_PATH
+target_dist:15.2536 trans:3.1346 rot:-0.0562 State:IN_PATH
+target_dist:14.8157 trans:2.6704 rot:-0.0281 State:IN_PATH
+target_dist:14.8157 trans:2.6704 rot:-0.0281 State:IN_PATH
+target_dist:14.2772 trans:2.8574 rot:0.3030 State:IN_PATH
+target_dist:14.2772 trans:2.8574 rot:0.3030 State:IN_PATH
+target_dist:13.7426 trans:2.3441 rot:0.3639 State:IN_PATH
+target_dist:13.7426 trans:2.3441 rot:0.3639 State:IN_PATH
+target_dist:13.2424 trans:1.8481 rot:0.3654 State:IN_PATH
+target_dist:13.2424 trans:1.8481 rot:0.3654 State:IN_PATH
+target_dist:12.8266 trans:2.7700 rot:0.1450 State:IN_PATH
+target_dist:12.8266 trans:2.7700 rot:0.1450 State:IN_PATH
+target_dist:12.4753 trans:2.3748 rot:0.0625 State:IN_PATH
+target_dist:12.4753 trans:2.3748 rot:0.0625 State:IN_PATH
+target_dist:12.0568 trans:1.8483 rot:0.0469 State:IN_PATH
+target_dist:12.0568 trans:1.8483 rot:0.0469 State:IN_PATH
+target_dist:11.6943 trans:2.7823 rot:-0.0920 State:IN_PATH
+target_dist:11.6943 trans:2.7823 rot:-0.0920 State:IN_PATH
+target_dist:11.3810 trans:2.3953 rot:-0.0909 State:IN_PATH
+target_dist:11.3810 trans:2.3953 rot:-0.0909 State:IN_PATH
+target_dist:11.0197 trans:1.9362 rot:-0.1128 State:IN_PATH
+target_dist:11.0197 trans:1.9362 rot:-0.1128 State:IN_PATH
+target_dist:10.7013 trans:2.9070 rot:-0.1770 State:IN_PATH
+target_dist:10.7013 trans:2.9070 rot:-0.1770 State:IN_PATH
+target_dist:10.3881 trans:2.5079 rot:-0.1882 State:IN_PATH
+target_dist:10.3881 trans:2.5079 rot:-0.1882 State:IN_PATH
+target_dist:10.0230 trans:1.9935 rot:-0.2433 State:IN_PATH
+target_dist:10.0230 trans:1.9935 rot:-0.2433 State:IN_PATH
+target_dist:9.6966 trans:2.9532 rot:-0.1943 State:IN_PATH
+target_dist:9.6966 trans:2.9532 rot:-0.1943 State:IN_PATH
+target_dist:9.3817 trans:2.5468 rot:-0.1389 State:IN_PATH
+target_dist:9.3817 trans:2.5468 rot:-0.1389 State:IN_PATH
+target_dist:8.9967 trans:2.8978 rot:-0.3229 State:IN_PATH
+target_dist:8.9967 trans:2.8978 rot:-0.3229 State:IN_PATH
+target_dist:8.5713 trans:2.3898 rot:-0.3309 State:IN_PATH
+target_dist:8.5713 trans:2.3898 rot:-0.3309 State:IN_PATH
+target_dist:8.1430 trans:2.8528 rot:-0.4354 State:IN_PATH
+target_dist:8.1430 trans:2.8528 rot:-0.4354 State:IN_PATH
+target_dist:7.7347 trans:2.4060 rot:-0.4274 State:IN_PATH
+target_dist:7.7347 trans:2.4060 rot:-0.4274 State:IN_PATH
+target_dist:7.2768 trans:1.9207 rot:-0.4282 State:IN_PATH
+target_dist:7.2768 trans:1.9207 rot:-0.4282 State:IN_PATH
+target_dist:6.8587 trans:2.4929 rot:-0.3711 State:IN_PATH
+target_dist:6.8587 trans:2.4929 rot:-0.3711 State:IN_PATH
+target_dist:6.4770 trans:2.1086 rot:-0.3126 State:IN_PATH
+target_dist:6.4770 trans:2.1086 rot:-0.3126 State:IN_PATH
+target_dist:6.0231 trans:2.6495 rot:-0.2251 State:IN_PATH
+target_dist:6.0231 trans:2.6495 rot:-0.2251 State:IN_PATH
+target_dist:5.5752 trans:2.2016 rot:-0.1690 State:IN_PATH
+target_dist:5.5752 trans:2.2016 rot:-0.1690 State:IN_PATH
+target_dist:5.0805 trans:1.7080 rot:-0.1365 State:IN_PATH
+target_dist:5.0805 trans:1.7080 rot:-0.1365 State:IN_PATH
+target_dist:4.6630 trans:2.2813 rot:-0.0386 State:IN_PATH
+target_dist:4.6630 trans:2.2813 rot:-0.0386 State:IN_PATH
+target_dist:4.3000 trans:1.9178 rot:-0.0275 State:IN_PATH
+target_dist:4.3000 trans:1.9178 rot:-0.0275 State:IN_PATH
+target_dist:3.8689 trans:2.4818 rot:0.0105 State:IN_PATH
+target_dist:3.8689 trans:2.4818 rot:0.0105 State:IN_PATH
+target_dist:3.4633 trans:2.0749 rot:0.0041 State:IN_PATH
+target_dist:3.4633 trans:2.0749 rot:0.0041 State:IN_PATH
+target_dist:2.9967 trans:1.6083 rot:0.0013 State:IN_PATH
+target_dist:2.9967 trans:1.6083 rot:0.0013 State:IN_PATH
+target_dist:2.6092 trans:2.2186 rot:0.0263 State:IN_PATH
+target_dist:2.6092 trans:2.2186 rot:0.0263 State:IN_PATH
+target_dist:2.2678 trans:1.8745 rot:0.0081 State:IN_PATH
+target_dist:2.2678 trans:1.8745 rot:0.0081 State:IN_PATH
+target_dist:1.8647 trans:1.4642 rot:-0.0052 State:IN_PATH
+target_dist:1.8647 trans:1.4642 rot:-0.0052 State:IN_PATH
+target_dist:1.5246 trans:1.1149 rot:0.0014 State:IN_PATH
+target_dist:1.5246 trans:1.1149 rot:0.0014 State:IN_PATH
+target_dist:1.2609 trans:0.8432 rot:0.0204 State:IN_PATH
+target_dist:1.2609 trans:0.8432 rot:0.0204 State:IN_PATH
+target_dist:1.0716 trans:0.6433 rot:0.0263 State:IN_PATH
+target_dist:1.0716 trans:0.6433 rot:0.0263 State:IN_PATH
+target_dist:0.9172 trans:0.4819 rot:0.0558 State:IN_PATH
+target_dist:0.9172 trans:0.4819 rot:0.0558 State:IN_PATH
+target_dist:0.8193 trans:0.3676 rot:0.0320 State:IN_PATH
+target_dist:0.8193 trans:0.3676 rot:0.0320 State:IN_PATH
+target_dist:0.7416 trans:0.2844 rot:0.0688 State:IN_PATH
+target_dist:0.7416 trans:0.2844 rot:0.0688 State:IN_PATH
+target_dist:0.6823 trans:0.2194 rot:0.1091 State:IN_PATH
+target_dist:0.6823 trans:0.2194 rot:0.1091 State:IN_PATH
+target_dist:0.6458 trans:0.1726 rot:0.0920 State:IN_PATH
+target_dist:0.6458 trans:0.1726 rot:0.0920 State:IN_PATH
+target_dist:0.6143 trans:0.1268 rot:0.0455 State:IN_PATH
+target_dist:0.6143 trans:0.1268 rot:0.0455 State:IN_PATH
+target_dist:0.5882 trans:0.0991 rot:0.1142 State:IN_PATH
+target_dist:0.5882 trans:0.0991 rot:0.1142 State:IN_PATH
+target_dist:0.5731 trans:0.0733 rot:0.0768 State:IN_PATH
+target_dist:0.5731 trans:0.0733 rot:0.0768 State:IN_PATH
+target_dist:0.5600 trans:0.0555 rot:0.1027 State:IN_PATH
+target_dist:0.5600 trans:0.0555 rot:0.1027 State:IN_PATH
+target_dist:0.5498 trans:0.0411 rot:0.1443 State:IN_PATH
+target_dist:0.5498 trans:0.0411 rot:0.1443 State:IN_PATH
+target_dist:0.5351 trans:0.0287 rot:0.4339 State:IN_PATH
+target_dist:0.5351 trans:0.0287 rot:0.4339 State:IN_PATH
+target_dist:0.5199 trans:0.0116 rot:2.1199 State:IN_PATH
+target_dist:0.5199 trans:0.0116 rot:2.1199 State:IN_PATH
+target_dist:0.4981 trans:0.0473 rot:2.6423 State:IN_PATH
+target_dist:0.0000 trans:0.0473 rot:-2.7799 State:ORIENTATION_CALI
+target_dist:0.0000 trans:0.0916 rot:3.0033 State:ORIENTATION_CALI
+target_dist:0.0000 trans:0.0916 rot:3.0033 State:ORIENTATION_CALI
+target_dist:0.0000 trans:0.1362 rot:2.3585 State:ORIENTATION_CALI
+target_dist:0.0000 trans:0.1362 rot:2.3585 State:ORIENTATION_CALI
+target_dist:0.0000 trans:0.1522 rot:1.5829 State:ORIENTATION_CALI
+target_dist:0.0000 trans:0.1522 rot:1.5829 State:ORIENTATION_CALI
+target_dist:0.0000 trans:0.1498 rot:0.9352 State:ORIENTATION_CALI
+target_dist:0.0000 trans:0.1498 rot:0.9352 State:ORIENTATION_CALI
+target_dist:0.0000 trans:0.1199 rot:0.5114 State:ORIENTATION_CALI
+target_dist:0.0000 trans:0.1199 rot:0.5114 State:ORIENTATION_CALI
+target_dist:0.0000 trans:0.0853 rot:0.2730 State:ORIENTATION_CALI
+target_dist:0.0000 trans:0.0853 rot:0.2730 State:ORIENTATION_CALI
+target_dist:0.0000 trans:0.0904 rot:0.1447 State:ORIENTATION_CALI
+target_dist:0.0000 trans:0.0904 rot:0.1447 State:ORIENTATION_CALI
+target_dist:0.0000 trans:0.0766 rot:0.0723 State:ORIENTATION_CALI
+target_dist:0.0000 trans:0.0766 rot:0.0723 State:ORIENTATION_CALI
+target_dist:0.0000 trans:0.0562 rot:0.0443 State:ORIENTATION_CALI
+target_dist:0.0000 trans:0.0562 rot:0.0443 State:ORIENTATION_CALI
+target_dist:0.0000 trans:0.0591 rot:0.0242 State:ORIENTATION_CALI
+target_dist:0.0000 trans:0.0591 rot:-1.6061 State:REST
